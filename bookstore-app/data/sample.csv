@@ -1,0 +1,95 @@
+book_name,book_pages,author,store_name,store_address,store_price_for_book
+The Great Gatsby,180,F. Scott Fitzgerald,Uptown Books,"789 Broadway, Anytown",15.14
+1984,328,George Orwell,Uptown Books,"789 Broadway, Anytown",20.9
+1984,328,George Orwell,Uptown Books,"789 Broadway, Anytown",11.89
+To Kill a Mockingbird,281,Harper Lee,Village Books,"202 Elm St, Countryside",22.96
+Moby-Dick,635,Herman Melville,Uptown Books,"789 Broadway, Anytown",17.03
+Moby-Dick,635,Herman Melville,Harbor Books,"101 Ocean Ave, Seaview",11.19
+Moby-Dick,635,Herman Melville,Uptown Books,"789 Broadway, Anytown",17.97
+Pride and Prejudice,279,Jane Austen,Village Books,"202 Elm St, Countryside",20.37
+The Catcher in the Rye,277,J.D. Salinger,City Books,"456 Market St, Anytown",14.11
+The Hobbit,310,J.R.R. Tolkien,Harbor Books,"101 Ocean Ave, Seaview",20.75
+The Hobbit,310,J.R.R. Tolkien,Harbor Books,"101 Ocean Ave, Seaview",20.07
+The Hobbit,310,J.R.R. Tolkien,Village Books,"202 Elm St, Countryside",11.13
+Brave New World,268,Aldous Huxley,Harbor Books,"101 Ocean Ave, Seaview",15.59
+Jane Eyre,507,Charlotte Brontë,Harbor Books,"101 Ocean Ave, Seaview",14.65
+Jane Eyre,507,Charlotte Brontë,Downtown Books,"123 Main St, Anytown",10.87
+Jane Eyre,507,Charlotte Brontë,Village Books,"202 Elm St, Countryside",24.81
+Crime and Punishment,430,Fyodor Dostoevsky,Village Books,"202 Elm St, Countryside",23.59
+Crime and Punishment,430,Fyodor Dostoevsky,Uptown Books,"789 Broadway, Anytown",16
+Crime and Punishment,430,Fyodor Dostoevsky,Harbor Books,"101 Ocean Ave, Seaview",19.89
+Wuthering Heights,416,Emily Brontë,City Books,"456 Market St, Anytown",11.4
+Wuthering Heights,416,Emily Brontë,City Books,"456 Market St, Anytown",19.94
+The Odyssey,300,Homer,City Books,"456 Market St, Anytown",11.88
+The Odyssey,300,Homer,Harbor Books,"101 Ocean Ave, Seaview",15.74
+The Iliad,360,Homer,Harbor Books,"101 Ocean Ave, Seaview",21.17
+The Iliad,360,Homer,City Books,"456 Market St, Anytown",24.17
+Les Misérables,1232,Victor Hugo,Harbor Books,"101 Ocean Ave, Seaview",10.68
+Les Misérables,1232,Victor Hugo,City Books,"456 Market St, Anytown",24.51
+War and Peace,1225,Leo Tolstoy,Downtown Books,"123 Main St, Anytown",10.71
+War and Peace,1225,Leo Tolstoy,City Books,"456 Market St, Anytown",19.51
+The Divine Comedy,798,Dante Alighieri,City Books,"456 Market St, Anytown",15.14
+Don Quixote,1072,Miguel de Cervantes,Downtown Books,"123 Main St, Anytown",14.48
+Don Quixote,1072,Miguel de Cervantes,Village Books,"202 Elm St, Countryside",19.39
+The Brothers Karamazov,824,Fyodor Dostoevsky,Village Books,"202 Elm St, Countryside",20.48
+The Brothers Karamazov,824,Fyodor Dostoevsky,Village Books,"202 Elm St, Countryside",18.71
+Ulysses,730,James Joyce,Downtown Books,"123 Main St, Anytown",14.08
+Ulysses,730,James Joyce,Harbor Books,"101 Ocean Ave, Seaview",16.31
+Ulysses,730,James Joyce,City Books,"456 Market St, Anytown",20.55
+Madame Bovary,432,Gustave Flaubert,Village Books,"202 Elm St, Countryside",16.39
+Madame Bovary,432,Gustave Flaubert,Downtown Books,"123 Main St, Anytown",20.13
+Madame Bovary,432,Gustave Flaubert,Village Books,"202 Elm St, Countryside",15.33
+The Scarlet Letter,272,Nathaniel Hawthorne,Village Books,"202 Elm St, Countryside",19.09
+The Scarlet Letter,272,Nathaniel Hawthorne,Uptown Books,"789 Broadway, Anytown",15.53
+The Scarlet Letter,272,Nathaniel Hawthorne,Village Books,"202 Elm St, Countryside",22.86
+Anna Karenina,864,Leo Tolstoy,Harbor Books,"101 Ocean Ave, Seaview",11.67
+The Metamorphosis,201,Franz Kafka,Village Books,"202 Elm St, Countryside",22.63
+The Metamorphosis,201,Franz Kafka,Harbor Books,"101 Ocean Ave, Seaview",11.88
+The Metamorphosis,201,Franz Kafka,Downtown Books,"123 Main St, Anytown",17.05
+Dracula,418,Bram Stoker,Harbor Books,"101 Ocean Ave, Seaview",15.08
+The Picture of Dorian Gray,254,Oscar Wilde,Harbor Books,"101 Ocean Ave, Seaview",11.33
+The Picture of Dorian Gray,254,Oscar Wilde,City Books,"456 Market St, Anytown",20.38
+A Tale of Two Cities,341,Charles Dickens,Harbor Books,"101 Ocean Ave, Seaview",24.32
+Frankenstein,280,Mary Shelley,Harbor Books,"101 Ocean Ave, Seaview",11.37
+Frankenstein,280,Mary Shelley,Uptown Books,"789 Broadway, Anytown",22.76
+The Count of Monte Cristo,1243,Alexandre Dumas,Harbor Books,"101 Ocean Ave, Seaview",23.02
+The Count of Monte Cristo,1243,Alexandre Dumas,Downtown Books,"123 Main St, Anytown",15.9
+The Count of Monte Cristo,1243,Alexandre Dumas,Downtown Books,"123 Main St, Anytown",16.99
+The Lord of the Rings,1178,J.R.R. Tolkien,City Books,"456 Market St, Anytown",18.47
+The Sun Also Rises,251,Ernest Hemingway,Harbor Books,"101 Ocean Ave, Seaview",11.9
+The Sun Also Rises,251,Ernest Hemingway,City Books,"456 Market St, Anytown",17.32
+The Sun Also Rises,251,Ernest Hemingway,City Books,"456 Market St, Anytown",15.84
+Heart of Darkness,384,Joseph Conrad,City Books,"456 Market St, Anytown",11.06
+Gulliver's Travels,306,Jonathan Swift,Downtown Books,"123 Main St, Anytown",21.28
+Gulliver's Travels,306,Jonathan Swift,Uptown Books,"789 Broadway, Anytown",19.07
+The Grapes of Wrath,464,John Steinbeck,Uptown Books,"789 Broadway, Anytown",11.1
+The Grapes of Wrath,464,John Steinbeck,Village Books,"202 Elm St, Countryside",17.24
+The Grapes of Wrath,464,John Steinbeck,Uptown Books,"789 Broadway, Anytown",19.7
+Slaughterhouse-Five,275,Kurt Vonnegut,City Books,"456 Market St, Anytown",20.36
+Slaughterhouse-Five,275,Kurt Vonnegut,Harbor Books,"101 Ocean Ave, Seaview",22.03
+Slaughterhouse-Five,275,Kurt Vonnegut,Uptown Books,"789 Broadway, Anytown",22.55
+Fahrenheit 451,256,Ray Bradbury,Harbor Books,"101 Ocean Ave, Seaview",15.02
+The Old Man and the Sea,132,Ernest Hemingway,Village Books,"202 Elm St, Countryside",18.16
+The Stranger,123,Albert Camus,Uptown Books,"789 Broadway, Anytown",12.45
+The Stranger,123,Albert Camus,Uptown Books,"789 Broadway, Anytown",17.96
+Moby Dick,635,Herman Melville,Village Books,"202 Elm St, Countryside",15.62
+Gone with the Wind,1037,Margaret Mitchell,Uptown Books,"789 Broadway, Anytown",10.76
+Gone with the Wind,1037,Margaret Mitchell,Downtown Books,"123 Main St, Anytown",14.39
+Gone with the Wind,1037,Margaret Mitchell,Uptown Books,"789 Broadway, Anytown",10.88
+The Sound and the Fury,326,William Faulkner,Harbor Books,"101 Ocean Ave, Seaview",10.17
+The Great Gatsby,180,F. Scott Fitzgerald,Uptown Books,"789 Broadway, Anytown",24.78
+Brave New World,268,Aldous Huxley,City Books,"456 Market St, Anytown",22.21
+Brave New World,268,Aldous Huxley,Harbor Books,"101 Ocean Ave, Seaview",24.88
+Brave New World,268,Aldous Huxley,Uptown Books,"789 Broadway, Anytown",18.01
+Invisible Man,581,Ralph Ellison,Uptown Books,"789 Broadway, Anytown",17.66
+Invisible Man,581,Ralph Ellison,Uptown Books,"789 Broadway, Anytown",22.23
+The Road,287,Cormac McCarthy,Downtown Books,"123 Main St, Anytown",21.46
+Beloved,275,Toni Morrison,Downtown Books,"123 Main St, Anytown",11.11
+Things Fall Apart,209,Chinua Achebe,Uptown Books,"789 Broadway, Anytown",16.81
+Things Fall Apart,209,Chinua Achebe,City Books,"456 Market St, Anytown",19.86
+Things Fall Apart,209,Chinua Achebe,Uptown Books,"789 Broadway, Anytown",10.12
+The Call of the Wild,232,Jack London,Downtown Books,"123 Main St, Anytown",12.34
+The Catch-22,453,Joseph Heller,Uptown Books,"789 Broadway, Anytown",23.3
+The Master and Margarita,384,Mikhail Bulgakov,Downtown Books,"123 Main St, Anytown",16.93
+The Master and Margarita,384,Mikhail Bulgakov,Uptown Books,"789 Broadway, Anytown",14.16
+The Master and Margarita,384,Mikhail Bulgakov,Uptown Books,"789 Broadway, Anytown",21.93

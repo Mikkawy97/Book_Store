@@ -1,0 +1,13 @@
+services:
+  frontend:
+    build:
+      context: ./bookstore-frontend
+    ports:
+      - "3001:80"
+  backend:
+    build:
+      context: ./bookstore-app
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
